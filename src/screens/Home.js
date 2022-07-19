@@ -1,4 +1,5 @@
 import '../css/homestyle.css'
+
 import Left from './components/home/Left'
 import Right from './components/home/Right'
 
